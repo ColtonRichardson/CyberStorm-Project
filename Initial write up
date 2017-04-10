@@ -1,0 +1,25 @@
+Group 5: Colton Richardson, Jacob Sennett, John Lofton, Tyler Nelson
+Our groups initial idea was to do a gameshow type puzzle have the different cyber storm teams
+compete against each other to see who would get the highest score.
+We elaborated upon this idea by thinking what if we set it up like Jeopardy with 4 bread boards
+in the middle stuck together. Two other bread boards on the sides with a button and a LED that flashed
+and made a noise when pressed, then having the center bread boards having 4 buttons for 4 distinct
+categories then two buttons on the side for up or down to choose your question then a final button to
+confirm your selection and several LEDS above or below the initial 4 buttons that turned off after a
+question was answered. After pondering upon this idea, we thought it might be a little too ambiguous
+for our current skill set so we decided to tone it down a bit. Our final idea that we were satisfied with
+was that we kept the 4 bread boards in the middle with four buttons, these would still be used for
+picking from the various categories, but also have a second purpose as acting as answer choices A-D. We
+agreed that this is something we could complete but needed to be more complex so we decided that
+when a team walks up they get prompted to enter their team name then start to play the game that will
+have two losing conditions; either getting three questions wrong or answering all 80 questions (20 per
+section). Once one of these circumstances has been met the teams score would go to a live leaderboard
+for everyone to see somewhat like a pinball machine. We figured this would keep the competitiveness
+of the game by trying to beat another teams score while also not overly complicated the puzzle.
+There are several reasons why we decided to tone down the game, the first of which being what
+if they are in too much of a hurry and unplug something, the second being what if they hit the buttons
+at the same time and the game crashes, the third being us not entirely sure if we’d be able to program
+what we had in mind. I think our compromise is not cutting too much off and acceptable, but we’d like
+to know from you if our final idea is not enough or fine or should we aim for original idea and if we
+cannot complete it then scale down. We are not entirely sure on how challenging this should be on us
+and the people meant to do our puzzle
